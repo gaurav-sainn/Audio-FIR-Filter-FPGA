@@ -1,0 +1,20 @@
+# Quartus generated databases
+db/
+incremental_db/
+
+# Temporary Quartus files
+*.qws
+*.bak
+*~
+
+# Simulation generated files
+work/
+rtl_work/
+transcript
+*.wlf
+*.vcd
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
